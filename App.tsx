@@ -105,7 +105,6 @@ const LOADING_MESSAGES = [
   "Rethinking your life choices...",
   "Consulting the council of overthinkers...",
   "Polishing your minor failures...",
-  "Mixing the purple palette...",
   "Generating your legacy..."
 ];
 
