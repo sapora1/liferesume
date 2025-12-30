@@ -37,9 +37,9 @@ const STEPS = [
   },
   { 
     key: 'profession', 
-    label: 'What do you do for tokens?', 
-    hinglishLabel: 'Tokens ke liye kya karte ho?',
-    placeholder: 'e.g. Spreadsheet Sorcerer', 
+    label: 'What do you do for Money?', 
+    hinglishLabel: 'Paise ke liye kya karte ho?',
+    placeholder: 'e.g. Software Developer', 
     hint: 'Official title vs reality.',
     hinglishHint: 'Official title vs aap jo asal mein karte ho.' 
   },
@@ -105,7 +105,8 @@ const LOADING_MESSAGES = [
   "Rethinking your life choices...",
   "Consulting the council of overthinkers...",
   "Polishing your minor failures...",
-  "Generating your legacy..."
+  "Generating your legacy...",
+  "Wait for Reality Check..."
 ];
 
 const App: React.FC = () => {
